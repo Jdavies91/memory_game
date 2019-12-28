@@ -1,4 +1,7 @@
 # Memory Game
-This Game was to help me work on my Node. js Skills.  
+This Game was to help me understand the following aspects in programming:
+- Node. js
+- GET and POST Request
+- MVC Design Pattern
+- Mongo DB database
 
-With also helping me expand my knowledge with working Mongo DB and GET and POST requests.
